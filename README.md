@@ -2,7 +2,7 @@
 
 [TOC]
 
-Forked from https://github.com/mseitzer/pytorch-fid. I add an slightly updated implement of inception_score from https://github.com/sbarratt/inception-score-pytorch. Their READMEs are as follows:
+Forked from https://github.com/mseitzer/pytorch-fid. I add a slightly updated implement of inception_score from https://github.com/sbarratt/inception-score-pytorch. Their READMEs are as follows:
 
 ## Fréchet Inception Distance (FID score) in PyTorch
 
